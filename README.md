@@ -1,3 +1,7 @@
+## Hi I'm lzban8 👋
+
+- 🤓 一个不正经学习软件编程的人。
+- 🔖 [我的博客](https://blog.feigood.com/)
+  
 ## ✨Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats-lzban8.vercel.app/api?username=lzban8)](https://github.com/anuraghazra/github-readme-stats)
-<img align="" height="180px" src="https://github-readme-stats-lzban8.vercel.app/api?username=lzban8&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"/><img align="" height="180px" src="https://github-readme-stats-lzban8.vercel.app/api/top-langs/?username=lzban8&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"/>
