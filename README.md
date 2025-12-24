@@ -4,4 +4,7 @@
 - 🔖 [我的博客](https://blog.feigood.com/)
   
 ## ✨Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats-lzban8.vercel.app/api?username=lzban8)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-lzban8.vercel.app/api?username=lzban8)]
+![Anurag's GitHub stats](https://github-readme-stats-lzban8.vercel.app/api?username=lzban8&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&locale=cn)
+[![Top Langs](https://github-readme-stats-lzban8.vercel.app/api/top-langs/?username=lzban8&layout=compact)]
+
